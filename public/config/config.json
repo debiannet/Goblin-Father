@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8a5431be63fdA6518c5f9cACe4cdD67E2A3eBe54",
+  "SCAN_LINK": "https://etherscan.io/address/0x8a5431be63fdA6518c5f9cACe4cdD67E2A3eBe54#writeContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Goblin Father",
+  "SYMBOL": "GF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goblin-father",
+  "SHOW_BACKGROUND": true
+}
