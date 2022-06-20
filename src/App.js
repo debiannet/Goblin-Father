@@ -298,7 +298,9 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  So is Free-To-Mint - Excluding gas fees.
+                  Buy in the morning or at night.
+                  when it is cheapest for just a few dollars, goblin father said..
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
