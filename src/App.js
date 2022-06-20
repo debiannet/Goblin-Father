@@ -299,13 +299,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   So is Free-To-Mint - Excluding gas fees.
-                   <s.TextDescription
-                  style={{ textAlign: "center", color: "var(--accent-text)" }}
-                >
                   Buy in the morning or at night when it is cheapest for just a few dollars.
-                   <s.TextDescription
-                  style={{ textAlign: "center", color: "var(--accent-text)" }}
-                >
                   Goblin father said...
                 </s.TextDescription>
                 <s.SpacerSmall />
