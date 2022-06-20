@@ -255,16 +255,6 @@ function App() {
                   margin: "5px",
                 }}
               >
-                Roadmap
-              </StyledButton>
-              <StyledButton
-                style={{
-                  margin: "5px",
-                }}
-                onClick={(e) => {
-                  window.open(CONFIG.MARKETPLACE_LINK, "_blank");
-                }}
-              >
                 {CONFIG.MARKETPLACE}
               </StyledButton>
             </span>
@@ -299,7 +289,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   So is Free-To-Mint - Excluding gas fees.
-                  Buy in the morning or at night when it is cheapest for just a few dollars.
+                  <s.SpacerSmall />
                   Goblin father said...
                 </s.TextDescription>
                 <s.SpacerSmall />
