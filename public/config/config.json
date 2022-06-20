@@ -9,7 +9,7 @@
   "NFT_NAME": "Goblin Father",
   "SYMBOL": "GF",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 00000,
+  "WEI_COST": 0000000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
