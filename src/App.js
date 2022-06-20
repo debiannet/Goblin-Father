@@ -306,7 +306,7 @@ function App() {
                    <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Goblin father said..
+                  Goblin father said...
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
