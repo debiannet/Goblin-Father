@@ -300,9 +300,13 @@ function App() {
                 >
                   Free-To-Mint - Excluding gas fees.
                   <s.SpacerSmall />
-                  Ethereum Contract Address:
-                  <s.SpacerSmall />
-                  https://etherscan.io/address/0x8a5431be63fdA6518c5f9cACe4cdD67E2A3eBe54
+                    
+                    
+                  <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
+                {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
+              </StyledLink>
+                 
+                 
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
