@@ -298,9 +298,11 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  So is Free-To-Mint - Excluding gas fees.
+                  Free-To-Mint - Excluding gas fees.
                   <s.SpacerSmall />
-                  Goblin father said...
+                  Ethereum Contract Address:
+                  <s.SpacerSmall />
+                  https://etherscan.io/address/0x8a5431be63fdA6518c5f9cACe4cdD67E2A3eBe54
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
