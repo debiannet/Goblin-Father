@@ -301,6 +301,10 @@ function App() {
                   Free-To-Mint - Excluding gas fees.
                   <s.SpacerSmall />
                     
+                  Ethereum Contract Address:
+                    
+                  <s.SpacerSmall />
+                    
                     
                   <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
                 {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
